@@ -1,0 +1,7 @@
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\UnitTiempo\bin\Debug\UnitTiempo.dll
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\UnitTiempo\bin\Debug\UnitTiempo.pdb
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\UnitTiempo\bin\Debug\TestTiempo.exe
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\UnitTiempo\bin\Debug\TestTiempo.pdb
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\UnitTiempo\obj\Debug\UnitTiempo.csprojResolveAssemblyReference.cache
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\UnitTiempo\obj\Debug\UnitTiempo.dll
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\UnitTiempo\obj\Debug\UnitTiempo.pdb

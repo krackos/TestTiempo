@@ -1,0 +1,6 @@
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\TestTiempo\bin\Debug\TestTiempo.exe.config
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\TestTiempo\bin\Debug\TestTiempo.exe
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\TestTiempo\bin\Debug\TestTiempo.pdb
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\TestTiempo\obj\Debug\TestTiempo.exe
+c:\users\vskrackos\documents\visual studio 2013\Projects\TestTiempo\TestTiempo\obj\Debug\TestTiempo.pdb
+C:\Users\VSKrackos\documents\visual studio 2013\Projects\TestTiempo\TestTiempo\obj\Debug\TestTiempo.csprojResolveAssemblyReference.cache
